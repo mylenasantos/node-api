@@ -1,2 +1,2 @@
 # node-api
-create API using NodeJS
+creating API using NodeJS
